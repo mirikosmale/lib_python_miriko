@@ -1,2 +1,2 @@
-# python_miriko
+# lib_python_miriko
 Python library by Miriam Kosmale
